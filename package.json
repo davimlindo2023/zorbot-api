@@ -1,0 +1,15 @@
+{
+  "name": "zorbot-api",
+  "version": "1.0.0",
+  "description": "API de respostas sarcásticas e dramáticas estilo Zorbot-3000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Você mesmo!",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
